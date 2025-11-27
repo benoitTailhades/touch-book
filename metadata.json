@@ -1,0 +1,5 @@
+{
+  "name": "Touch Book",
+  "description": "Une bibliothèque accessible pour envoyer des livres vers des liseuses braille. Optimisé pour les lecteurs d'écran.",
+  "requestFramePermissions": []
+}
